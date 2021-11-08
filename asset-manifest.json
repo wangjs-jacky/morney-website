@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/morney-website/static/css/main.46d98507.chunk.css",
+    "main.js": "/morney-website/static/js/main.8be7bd3e.chunk.js",
+    "main.js.map": "/morney-website/static/js/main.8be7bd3e.chunk.js.map",
+    "runtime-main.js": "/morney-website/static/js/runtime-main.8aea4650.js",
+    "runtime-main.js.map": "/morney-website/static/js/runtime-main.8aea4650.js.map",
+    "static/js/2.ec620d05.chunk.js": "/morney-website/static/js/2.ec620d05.chunk.js",
+    "static/js/2.ec620d05.chunk.js.map": "/morney-website/static/js/2.ec620d05.chunk.js.map",
+    "index.html": "/morney-website/index.html",
+    "static/css/main.46d98507.chunk.css.map": "/morney-website/static/css/main.46d98507.chunk.css.map",
+    "static/js/2.ec620d05.chunk.js.LICENSE.txt": "/morney-website/static/js/2.ec620d05.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8aea4650.js",
+    "static/js/2.ec620d05.chunk.js",
+    "static/css/main.46d98507.chunk.css",
+    "static/js/main.8be7bd3e.chunk.js"
+  ]
+}
